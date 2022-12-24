@@ -44,7 +44,7 @@ This is an Open Source Project under the GNU Public License. Please read the lic
 
 ## Developer
 
-Organization: Hadiya Enterprises LTD.
+Organization: Hadiya Enterprises LTD.<br>
 Developer: Shoaib S. Shaikh
 
 ## Enjoy!!!
